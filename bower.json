@@ -1,0 +1,10 @@
+{
+  "name": "exmplcom",
+  "description": "first pro /w react gulp",
+  "main": "index.js",
+  "authors": [
+    "Anto Kutsine"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
